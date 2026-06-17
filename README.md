@@ -1,6 +1,6 @@
 <div align="center">
 
-# Iterative Lab | ITER8  
+# Iterative Lab | ITER8
 
 ### Building Scalable Businesses Through Strategy & Digital Transformation
 
