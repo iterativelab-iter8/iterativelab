@@ -1,15 +1,8 @@
 <div align="center">
 
-# ITER8 | Iterative Lab
+# Iterative Lab | ITER8  
 
 ### Building Scalable Businesses Through Strategy & Digital Transformation
-
-<img src="https://img.shields.io/badge/Business%20Strategy-Enabled-blue" />
-<img src="https://img.shields.io/badge/Digital%20Transformation-Driven-success" />
-<img src="https://img.shields.io/badge/Systems%20Architecture-Scalable-orange" />
-<img src="https://img.shields.io/badge/Partner%20Enablement-Growth-important" />
-
-<br><br>
 
 <p>
 We help organizations modernize operations, align strategy with execution,
@@ -33,6 +26,20 @@ Our approach combines:
 - Process Optimization
 - Partner Ecosystem Development
 - Governance & Performance Frameworks
+
+---
+
+<h2>🌐 Connect Us</h2>
+
+<p>
+<a href="https://linkedin.com/in/Iterative Lab (Iter8)" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+
+<a href="https://instagram.com/iterativelab" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+
+<a href="https://facebook.com/Iterative Lab" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="45"/></a>
 
 ---
 
@@ -75,3 +82,35 @@ Our approach combines:
 - Security & Reliability
 
 ---
+
+<hr>
+
+<h2> GitHub Statistics</h2>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iterativelab-iter8&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iterativelab-iter8&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iterativelab-iter8&theme=tokyonight" />
+</p>
+
+<hr>
+
+<h2> Contribution Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iterativelab-iter8&theme=tokyo-night" />
+</p>
+
+<hr>
+
+<h2> Support Us</h2>
+
+<p>
+<a href="https://www.buymeacoffee.com/Iterative Lab">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
+</a>
+</p>
